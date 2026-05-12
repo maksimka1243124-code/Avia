@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+737b1991dbe5570517aa1dc7f0b3f3bc5719259b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa80dfd0e59e527f3433cebcaf60b4face7a8b92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
