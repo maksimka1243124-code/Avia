@@ -16,7 +16,6 @@ using System.Text.Json;
 using Avia.Interfaces;
 using Avia.IpAdress;
 using Avia.Middleware;
-using Avia.Middleware2;
 using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.VisualBasic;
 using Microsoft.AspNetCore.Authorization;

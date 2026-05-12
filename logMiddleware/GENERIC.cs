@@ -18,7 +18,6 @@ using Microsoft.VisualBasic;
 using Avia.Interfaces;
 using Avia.IpAdress;
 using Avia.Middleware;
-using Avia.Middleware2;
 using Microsoft.AspNetCore.Authorization;
 using System.Net;
 using Microsoft.AspNetCore.Authorization.Infrastructure;

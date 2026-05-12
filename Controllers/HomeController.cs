@@ -17,7 +17,6 @@ using System.Text;
 using Avia.Interfaces;
 using Avia.IpAdress;
 using Avia.Middleware;
-using Avia.Middleware2;
 using System.IdentityModel.Tokens.Jwt;
 using System.Text.Json;
 using Microsoft.EntityFrameworkCore.Storage;

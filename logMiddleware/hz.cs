@@ -30,7 +30,6 @@ using Microsoft.Identity.Client;
 using Microsoft.EntityFrameworkCore.Migrations.Operations;
 using Avia.Data;
 using Avia.Middleware;
-using Avia.Middleware2;
 using Avia.Models;
 using Avia.Interfaces;
 using Microsoft.AspNetCore.Http;

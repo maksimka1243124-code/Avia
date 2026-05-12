@@ -28,7 +28,6 @@ using Microsoft.AspNetCore.Http.HttpResults;
 using BCrypt.Net;
 using Avia.IpAdress;
 using Avia.Middleware;
-using Avia.Middleware2;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Runtime.CompilerServices;
 using Microsoft.Identity.Client;
