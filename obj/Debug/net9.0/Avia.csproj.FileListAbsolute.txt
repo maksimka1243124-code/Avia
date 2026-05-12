@@ -1,0 +1,10 @@
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.csproj.AssemblyReference.cache
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.AssemblyInfoInputs.cache
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.AssemblyInfo.cs
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.csproj.CoreCompileInputs.cache
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.RazorAssemblyInfo.cache
+C:\Users\bystr\OneDrive\Documents\codi\CodeAvia\Avia\obj\Debug\net9.0\Avia.RazorAssemblyInfo.cs
